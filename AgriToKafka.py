@@ -1,6 +1,4 @@
-import pandas as pd
 from kafka import KafkaProducer
-from random import randint
 from time import sleep
 import sys
 from json import dumps
